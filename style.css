@@ -1,0 +1,20 @@
+[href^="http"] {
+  color: red;
+}
+ul + p {
+  font-size: 24px;
+}
+
+:root {
+  --navedena: 212121;
+  --qwqer: 757575;
+  --asdf: FFFFFF;
+  --zxcv: 2196F3;
+  --asdf: 000000;
+  --zxcv: 2F303A;
+  --rtyu: ECECEC;
+  --rtvzx: F5F4FA;
+}
+.ref {
+  color: var(--navedena);
+}
